@@ -1,0 +1,11 @@
+h2{
+    text-align: center;
+}
+
+.container{
+    margin: auto;
+    text-align: center;
+    height: 180px;
+    width: 350px;
+    border-style: groove;
+}
